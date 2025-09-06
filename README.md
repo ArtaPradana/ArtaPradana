@@ -44,12 +44,12 @@ Halo! Saya seorang developer yang antusias dengan teknologi terbaru. Saya senang
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtaPradana&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtaPradana&theme=default&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtaPradana&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtaPradana&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtaPradana&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtaPradana&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ## 🌟 Recent Activity
