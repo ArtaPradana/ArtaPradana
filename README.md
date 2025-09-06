@@ -6,8 +6,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/ArtaPradana?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/ArtaPradana?label=Stars&style=social)
 
-<img align="right" src="https://avatars.githubusercontent.com/u/112266941" alt="Profile Picture" width="220" style="border-radius: 10px; border: 4px solid #2da44e;">
-
 ## 👋 Tentang Saya
 
 Halo! Saya seorang developer yang antusias dengan teknologi terbaru. Saya senang belajar hal-hal baru dan berkontribusi pada proyek open source. Di waktu luang, saya menikmati membaca buku teknologi dan bereksperimen dengan framework baru.
